@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Novela</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Hugo Novela</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Week 1: Starting a Model</title>
+      <link>https://example.com/post/2022-09-25-week-1-starting-a-model/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2022-09-25-week-1-starting-a-model/</guid>
+      <description>I will be using the visualization customization extension for this blog post and will use the resulting data to make a prediction about the upcoming 2022 midterm election.
+For my analysis, I’m picking the year 2016 since it is the most recent midterm year from the 114th Congress.
+Also, I am using a custom theme that replicates 538 theme that I found on GitHub. The source is linked at: https://github.</description>
+    </item>
+    
+    <item>
+      <title>week 3</title>
+      <link>https://example.com/post/2022-09-25-week-3/</link>
+      <pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/2022-09-25-week-3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
